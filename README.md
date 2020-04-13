@@ -1,2 +1,2 @@
 # hello-world
-Juzt a new one
+Just a new one
